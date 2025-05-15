@@ -1,12 +1,11 @@
-# Datatypes-Character Literal in Python
+# Datatypes-Converting a tuple to dictionary
 
 ## 🎯 Aim
-To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+To write a Python program that converts a tuple to dictionary
 
 ## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
-
+1.Get the input from the user 
+2.Covert the input to string using dict()
 ## 🧾 Program
 
 ## Output
